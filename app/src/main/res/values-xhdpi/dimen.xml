@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- xhdpi -->
+    <dimen name="nav_drawer_text_size">17dp</dimen>
+</resources>

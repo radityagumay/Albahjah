@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Al Bahjah</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Drawer -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Info Buya</item>
+        <item>Artikel</item>
+        <item>Index Buku</item>
+        <item>Index VCD Buya</item>
+        <item>Mp3 Buya</item>
+        <item>Gallery</item>
+        <item>Video Buya</item>
+        <item>Forum tanya jawab</item>
+    </string-array>
+
+    <string-array name="nav_drawer_article_items">
+        <item>Oase Iman</item>
+        <item>Buya Menjawab</item>
+        <item>Ulasan Pengajian</item>
+        <item>Mutiara Hikmah</item>
+        <item>Artikel Kajian</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+</resources>
